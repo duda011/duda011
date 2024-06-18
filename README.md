@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🌸
 
-<!--
-**duda011/duda011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduarda Vitoria
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+  
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+mikasaa06055@gmail.com
+
+  ![image](https://github.com/duda011/duda011/assets/173202840/f5d76e49-8d90-4496-a039-2eda240142ea)
